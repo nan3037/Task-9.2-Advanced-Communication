@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\MYgui\bin\Debug\MYgui.exe.config
+C:\Users\Lenovo\source\repos\MYgui\bin\Debug\MYgui.exe
+C:\Users\Lenovo\source\repos\MYgui\bin\Debug\MYgui.pdb
+C:\Users\Lenovo\source\repos\MYgui\obj\Debug\MYgui.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MYgui\obj\Debug\MYgui.Form1.resources
+C:\Users\Lenovo\source\repos\MYgui\obj\Debug\MYgui.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MYgui\obj\Debug\MYgui.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MYgui\obj\Debug\MYgui.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MYgui\obj\Debug\MYgui.exe
+C:\Users\Lenovo\source\repos\MYgui\obj\Debug\MYgui.pdb
